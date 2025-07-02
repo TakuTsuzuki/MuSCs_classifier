@@ -1,4 +1,4 @@
-# MuSCs Classifier: Image Analysis Project Supplement
+# MuSCs Classifier: Image Analysis Code Supplement
 
 This repository provides the data, analysis code, and visualization notebooks used in the study: [ Early and non-destructive prediction of the differentiation efficiency of human induced pluripotent stem cells using imaging and machine learning ].
 
